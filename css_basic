@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="base.css" rel="stylesheet">
+<link href="styles.css" rel="stylesheet">
+    <title>Simple HTML Page</title>
+</head>
+<body>
+    <h1>Welcome to the Simple HTML Page</h1>
+    <p>This is a basic structure of an HTML document.</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="base.css" rel="stylesheet">
+<link href="styles.css" rel="stylesheet">
+    <title>Simple HTML Page</title>
+</head>
+<body>
+    <h1>Welcome to the Simple HTML Page</h1>
+    <p>This is a basic structure of an HTML document.</p>
+    <a href="https://twitter.com/alx_africa/status/1856284541461135670"></a>
+    <a href="https://github.com/ErnstBanks/My_First_Portfolio/blob/main/index.html"></a>
+    </body>
+</html>
